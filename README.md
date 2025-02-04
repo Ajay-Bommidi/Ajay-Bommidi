@@ -19,7 +19,7 @@
 - 🛡️ **Strong in Offensive Security (Penetration Testing, Red Teaming), Now Expanding into SOC & Blue Teaming**  
 - 📌 **7+ Projects in Cybersecurity, AI, Pentesting, and SOC Analysis**  
 - ✍️ **Technical Blogger on Medium – [Read My Blogs](https://medium.com/@ajaynaidu641)**  
-- 🌐 **Portfolio:** [ajaybommidi1.netlify.app](https://ajaybommidi1.netlify.app)  
+- 🌐 **Portfolio:** [Ajay Bommidi](https://ajaybommidi1.netlify.app)  
 - 🔗 **LinkedIn:** [Ajay Bommidi](https://www.linkedin.com/in/ajay-bommidi-88b74b279)  
 
 ---

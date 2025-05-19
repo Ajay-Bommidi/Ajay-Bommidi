@@ -78,7 +78,7 @@
 
 🔗 **LinkedIn:** [Ajay Bommidi](https://www.linkedin.com/in/ajay-bommidi-88b74b279)  
 🌐 **Portfolio:** [ajaybommidi1.netlify.app](https://ajaybommidi1.netlify.app)  
-✍️ **Blogs:** [Medium](https://medium.com/@ajaynaidu641)  
+✍️ **Blogs:** [Medium](https://medium.com/@ajay_bommidi)  
 📩 **GitHub:** [Ajay-Bommidi](https://github.com/Ajay-Bommidi)  
 
 ---
